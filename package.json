@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/jamesIVdeveloper/pet-adopt#readme",
   "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.16.7",
     "esl": "^10.0.0",
     "eslint": "^8.8.0",
     "eslint-config-prettier": "^8.3.0",
